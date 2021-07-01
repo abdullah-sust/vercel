@@ -1,29 +1,30 @@
-![Vue.js Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/vue.svg)
+# app-questionaire-vue
 
-# Vue.js Example
+### Set up
 
-This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed with Vercel and zero configuration.
+Open terminal
 
-## Deploy Your Own
+> git clone git@github.com:abdullah-sust/app-questionaire-vue.git
 
-Deploy your own Vue.js project with Vercel.
+> cd app-questionaire-vue
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/main/examples/vue)
+> npm install
 
-_Live Example: https://vue.now-examples.now.sh_
+> npm run serve
 
-### How We Created This Example
 
-To get started with Vue.js deployed with Vercel, you can use the [Vue CLI](https://cli.vuejs.org/guide/creating-a-project.html#vue-create) to initialize the project:
+### Technology 
 
-```shell
-$ vue create
-```
+JavaScript framework - Vue.js as 
 
-### Deploying From Your Terminal
+Design material - Vuetify
 
-You can deploy your new Vue.js project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+### Description
 
-```shell
-$ vercel
-```
+The main concept of the project is that users can ask a question, which is then listed on the main page, where others can read it and reply.
+
+### Developer
+
+Mohammed Abdullah Al Awal
+
+abdullahalawal177@gmail.com
